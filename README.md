@@ -1,5 +1,5 @@
 # UNP_PROJECT_BI_WITH_SQL_HUMAN_RESOURCES
-I. POWER BI Project
+I. POWER BI Project: 
 Completed this project as a part of my BI with Power BI Internship with United Network Of Proffessionals (UNP).
 
 Key highlights:
